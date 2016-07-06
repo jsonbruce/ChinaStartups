@@ -1,0 +1,1 @@
+# Crawler Data Visualization Project## How to run?first  run to create database::```python app.py shell```last run:```python app.py runserver```
